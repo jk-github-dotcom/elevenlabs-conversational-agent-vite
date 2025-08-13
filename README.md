@@ -77,6 +77,13 @@ git push -u origin main
 ```
 npm run dev:frontend
 ```
-
 Open http://localhost:5371 with your browser.
 
+## Deployment on Vercel
+
+- Deploy via github
+- Set VITE_ELEVENLABS_AGENT_ID
+
+## Run frontend server on vercel
+
+[https://elevenlabs-conversational-agent-vit.vercel.app/](https://elevenlabs-conversational-agent-vit.vercel.app/)
